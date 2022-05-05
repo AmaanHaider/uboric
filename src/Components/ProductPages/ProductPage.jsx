@@ -1,7 +1,7 @@
 import React from "react";
 import Sidebar from "../Sidebar/Sidebar";
-import ProductDisplay from "./ProductDisplay/ProductDisplay";
-import "./ProductPage.css"
+import ProductDisplay from "./ProductDisplay";
+import "./styles/ProductPage.css"
 import Reviewsection from "../Reviewsection/Reviewsection";
 
 const ProductPage = () => {

@@ -1,7 +1,7 @@
 import { Route, Routes } from 'react-router-dom';
 import Categories from '../Categories/Categories';
-import ProductSinglePage from '../ProductPage/ProductDisplay/ProductSinglePage';
-import ProductPage from '../ProductPage/ProductPage';
+import ProductSinglePage from '../ProductPages/ProductSinglePage';
+import ProductPage from '../ProductPages/ProductPage';
 
 export const UboricRoutes = () => {
     return (
