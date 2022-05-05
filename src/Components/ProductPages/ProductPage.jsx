@@ -1,5 +1,5 @@
 import React from "react";
-import Sidebar from "../Sidebar/Sidebar";
+import Sidebar from "../Filters/ProductDisplayFilter";
 import ProductDisplay from "./ProductDisplay";
 import "./styles/ProductPage.css"
 import Reviewsection from "../Reviewsection/Reviewsection";
