@@ -89,7 +89,7 @@ const CategoriesPageFilter = () => {
         <p><input type="checkbox" name="" id="" />NAVY BLUE (1)</p>
         <p><input type="checkbox" name="" id="" />NAVY/RED (5)</p>
         <p><input type="checkbox" name="" id="" />RUST (2)</p>
-        <p><input type="checkbox" name="" id="" />TAN(5)</p>
+        <p><input type="checkbox" name="" id="" />TAN(6)</p>
         <p><input type="checkbox" name="" id="" />TOBACCO (1)</p>
         <p><input type="checkbox" name="" id="" />WHITE/BALCK (1)</p>
     </div>
